@@ -14,42 +14,40 @@ Last Modified: 2025-07-25
 2. Augustus [paper](https://academic.oup.com/bioinformatics/article/27/6/757/234821), [github](https://github.com/Gaius-Augustus/Augustus)
 3. Maker [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-491), [homepage](https://www.yandell-lab.org/software/maker.html)
 4. Prodigal [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-119), [github](https://github.com/hyattpd/Prodigal)
-5. Bakta
-6. DFAST
-7. EggNOG
-8. Alphagenome
+5. Bakta [paper](https://www.microbiologyresearch.org/content/journal/mgen/10.1099/mgen.0.000685), [github](https://github.com/oschwengers/bakta)
+6. DFAST [paper](https://academic.oup.com/bioinformatics/article/34/6/1037/4587587), [github](https://github.com/nigyta/dfast_core)
+7. EggNOG [paper1](https://academic.oup.com/nar/article/47/D1/D309/5173662), [paper2](https://academic.oup.com/mbe/article/38/12/5825/6379734) [github](https://github.com/eggnogdb/eggnog-mapper), [homepage](http://eggnog-mapper.embl.de/)
+8. Alphagenome [paper](https://www.biorxiv.org/content/10.1101/2025.06.25.661532v1.full), [github](https://github.com/google-deepmind/alphagenome)
 
 ## Genome comparison
 1. mummer1-4 [paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005944), [github](https://github.com/mummer4/mummer)
 2. mash [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0997-x), [github](https://github.com/marbl/mash)
-3. skani
-4. Gegenees
+3. skani [paper](https://www.nature.com/articles/s41592-023-02018-3), [github](https://github.com/bluenote-1577/skani)
 
 ## Multiple sequence alignment (MSA)
 1. clustalomega [paper](https://www.embopress.org/doi/full/10.1038/msb.2011.75), [github](https://github.com/GSLBiotech/clustal-omega), [homepage](http://www.clustal.org/omega/)
 2. mafft [paper](https://academic.oup.com/mbe/article/30/4/772/1073398), [github](https://github.com/GSLBiotech/mafft), [homepage](https://mafft.cbrc.jp/alignment/software/)
 3. muscle [paper1](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-5-113), [paper2](https://academic.oup.com/nar/article/32/5/1792/2380623), [github](https://github.com/rcedgar/muscle), [homepage](https://www.drive5.com/muscle/)
-4. T-Coffee
-5. Kalign 3
+4. T-Coffee [paper1](https://www.sciencedirect.com/science/article/pii/S0022283600940427), [paper2](https://academic.oup.com/nar/article/39/suppl_2/W13/2505784), [github](https://github.com/cbcrg/tcoffee), [homepage](https://tcoffee.crg.eu/)
+5. Kalign 3 [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-6-298), [paper2](https://pmc.ncbi.nlm.nih.gov/articles/PMC2647288/), [paper3](https://academic.oup.com/bioinformatics/article/36/6/1928/5607735), [github](https://github.com/TimoLassmann/kalign)
 
 ## Homology search
 1. MMseqs2 [paper](https://www.nature.com/articles/nbt.3988), [github](https://github.com/soedinglab/MMseqs2)
 2. Diamond1+2 [paper1](https://www.nature.com/articles/s41592-021-01101-x), [paper2](https://www.nature.com/articles/nmeth.3176), [github](https://github.com/bbuchfink/diamond)
 3. HHblits [paper](https://www.nature.com/articles/nmeth.1818), [github](https://github.com/soedinglab/hh-suite)
-4. BLAST
 
 ## Transcript
 1. stringtie1+2 [paper1](https://www.nature.com/articles/nbt.3122), [paper2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1910-1), [github](https://github.com/gpertea/stringtie), [homepage](http://ccb.jhu.edu/software/stringtie/)
 2. kallisto [paper](https://www.nature.com/articles/nbt.3519), [github](https://github.com/pachterlab/kallisto), [homepage](https://pachterlab.github.io/kallisto/)
 3. salmon [paper](https://www.nature.com/articles/nmeth.4197), [github](https://github.com/COMBINE-lab/salmon), [homepage](https://combine-lab.github.io/salmon/)
-4. RSEM
+4. RSEM [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-323), [github](https://github.com/deweylab/RSEM)
 
 ## Metagenomics
 1. metaphlan3 [metaphlan1_paper](https://www.nature.com/articles/nmeth.2066), [metaphlan2_paper](https://www.nature.com/articles/nmeth.3589), [metaphlan3_paper](https://elifesciences.org/articles/65088), [github](https://github.com/biobakery/MetaPhlAn), [homepage](https://huttenhower.sph.harvard.edu/metaphlan3/)
 2. kraken2 [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1891-0), [github](https://github.com/DerrickWood/kraken2)
-3. Kaiju
-4. MetaMaps
-5. Metabuli
+3. Kaiju [paper](https://www.nature.com/articles/ncomms11257), [github](https://github.com/bioinformatics-centre/kaiju)
+4. MetaMaps [paper](https://www.nature.com/articles/s41467-019-10934-2), [github](https://github.com/DiltheyLab/MetaMaps)
+5. Metabuli [paper](https://www.nature.com/articles/s41592-024-02273-y), [github](https://github.com/steineggerlab/Metabuli)
 
 ## Phylogenetics
 1. raxml [paper](https://academic.oup.com/bioinformatics/article/30/9/1312/238053), [github](https://github.com/stamatak/standard-RAxML), [homepage](https://cme.h-its.org/exelixis//web/software/raxml/index.html)
