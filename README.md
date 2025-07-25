@@ -53,8 +53,8 @@ Last Modified: 2025-07-25
 1. raxml [paper](https://academic.oup.com/bioinformatics/article/30/9/1312/238053), [github](https://github.com/stamatak/standard-RAxML), [homepage](https://cme.h-its.org/exelixis//web/software/raxml/index.html)
 2. fasttree1,2 [paper1](https://academic.oup.com/mbe/article/26/7/1641/1128976),[paper2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0009490), [homepage](http://www.microbesonline.org/fasttree/)
 3. iqtree1,2,3 [iqtree1_paper](https://academic.oup.com/mbe/article/37/5/1530/5721363), [iqtree2_paper](https://academic.oup.com/mbe/article/37/5/1530/5721363), [iqtree3_paper](https://ecoevorxiv.org/repository/view/8916/), [github](https://github.com/iqtree/iqtree3), [homepage](http://www.iqtree.org/)
-4. Unicore
-5. orthofinder
+4. Unicore [paper](https://academic.oup.com/gbe/article/17/6/evaf109/8155201), [github](https://github.com/steineggerlab/unicore)
+5. orthofinder [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1832-y), [github](https://github.com/davidemms/OrthoFinder)
 
 ## RNA structure prediction
 1. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
@@ -68,9 +68,9 @@ Last Modified: 2025-07-25
 ## Protein structure
 1. AlphaFold2 [paper](https://www.nature.com/articles/s41586-021-03819-2), [github](https://github.com/deepmind/alphafold)
 2. RoseTTAFold [paper](https://www.science.org/doi/abs/10.1126/science.abj8754), [github](https://github.com/RosettaCommons/RoseTTAFold)
-4. Colabfold
+4. Colabfold [paper](https://www.nature.com/articles/s41592-022-01488-1), [github](https://github.com/sokrypton/ColabFold)
 5. ESMFold
-6. Foldseek
+6. Foldseek [paper](https://www.nature.com/articles/s41587-023-01773-0), [github](https://github.com/steineggerlab/foldseek)
 7. Foldseek-multimer
 8. Foldmason
 9. Folddisco
