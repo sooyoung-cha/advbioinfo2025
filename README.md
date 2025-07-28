@@ -58,22 +58,20 @@ Last Modified: 2025-07-25
 
 ## RNA structure prediction
 1. viennarna [paper](https://almob.biomedcentral.com/articles/10.1186/1748-7188-6-26), [github](https://github.com/ViennaRNA/ViennaRNA), [homepage](https://www.tbi.univie.ac.at/RNA/)
-2. LinearFold
-3. UFold
-4. MXfold2
-5. RoseTTAFoldNA
-6. RhoFold
-7. GeoRNA
+2. LinearFold [paper](https://academic.oup.com/bioinformatics/article/35/14/i295/5529205?login=true), [github](https://github.com/LinearFold/LinearFold)
+3. UFold [paper](https://academic.oup.com/nar/article/50/3/e14/6430845?login=true), [github](https://github.com/uci-cbcl/UFold)
+4. MXfold2 [paper](https://www.nature.com/articles/s41467-021-21194-4), [github](https://github.com/mxfold/mxfold2)
+5. RoseTTAFoldNA [paper](https://www.nature.com/articles/s41592-023-02086-5), [github](https://github.com/uw-ipd/RoseTTAFold2NA)
+6. RhoFold [paper](https://www.nature.com/articles/s41592-024-02487-0), [github](https://github.com/ml4bio/RhoFold)
 
 ## Protein structure
 1. AlphaFold2 [paper](https://www.nature.com/articles/s41586-021-03819-2), [github](https://github.com/deepmind/alphafold)
 2. RoseTTAFold [paper](https://www.science.org/doi/abs/10.1126/science.abj8754), [github](https://github.com/RosettaCommons/RoseTTAFold)
-4. Colabfold [paper](https://www.nature.com/articles/s41592-022-01488-1), [github](https://github.com/sokrypton/ColabFold)
-5. ESMFold
-6. Foldseek [paper](https://www.nature.com/articles/s41587-023-01773-0), [github](https://github.com/steineggerlab/foldseek)
-7. Foldseek-multimer
-8. Foldmason
-9. Folddisco
+3. Colabfold [paper](https://www.nature.com/articles/s41592-022-01488-1), [github](https://github.com/sokrypton/ColabFold)
+4. Foldseek [paper](https://www.nature.com/articles/s41587-023-01773-0), [github](https://github.com/steineggerlab/foldseek)
+5. Foldseek-multimer [paper](https://www.nature.com/articles/s41592-025-02593-7), [github](https://github.com/steineggerlab/foldseek)
+6. Foldmason [paper](https://www.biorxiv.org/content/10.1101/2024.08.01.606130v1), [github](https://github.com/steineggerlab/foldmason)
+7. Folddisco [paper](https://www.biorxiv.org/content/10.1101/2025.07.06.663357v1), [github](https://github.com/steineggerlab/folddisco)
 
 ## Workflow and package
 1. nextflow [paper](https://www.nature.com/articles/nbt.3820), [github](https://github.com/nextflow-io/nextflow), [homepage](https://www.nextflow.io/)
@@ -83,37 +81,33 @@ Last Modified: 2025-07-25
 2. trinity [paper](https://www.nature.com/articles/nbt.1883), [github](https://github.com/trinityrnaseq/trinityrnaseq)
 3. flye [paper](https://www.nature.com/articles/s41587-019-0072-8), [github](https://github.com/fenderglass/Flye)
 4. hifiasm [paper](https://www.nature.com/articles/s41592-020-01056-5), [github](https://github.com/chhylp123/hifiasm)
-5. Velvet
-6. Canu
-7. Raven
-8. Verkko
+5. Raven [paper](https://www.nature.com/articles/s43588-021-00073-4), [github](https://github.com/lbcb-sci/raven)
+6. Verkko [paper](https://www.nature.com/articles/s41587-023-01662-6), [github](https://github.com/marbl/verkko)
 
 ## Read aligner
 1. hisat1+2 [paper](https://www.nature.com/articles/s41587-019-0201-4), [github](https://github.com/DaehwanKimLab/hisat2), [homepage](http://daehwankimlab.github.io/hisat2/)
 2. star [paper](https://academic.oup.com/bioinformatics/article/29/1/15/272537), [github](https://github.com/alexdobin/STAR)
 3. minimap2 [paper](https://academic.oup.com/bioinformatics/article/34/18/3094/4994778), [github](https://github.com/lh3/minimap2)
 4. vsearch [paper](https://peerj.com/articles/2584/), [github](https://github.com/torognes/vsearch)
-5. GraphAligner
-6. Astra
-7. GraphChainer
-8. winnowmap2
-9. ngmlr2
+5. GraphAligner [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02157-2), [github](https://github.com/maickrau/GraphAligner)
+6. GraphChainer [paper](https://academic.oup.com/bioinformatics/article/39/8/btad460/7231478?login=true), [github](https://github.com/algbio/GraphChainer)
+7. winnowmap2 [paper1](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i111/5870473?login=true), [paper2](https://www.nature.com/articles/s41592-022-01457-8), [github](https://github.com/marbl/Winnowmap)
 
 ## Language models
 1. ProtTrans [paper](https://ieeexplore.ieee.org/document/9477085), [github](https://github.com/agemagician/ProtTrans)
-2. ESM3
-3. GenSLMs
-4. Nucleotide Transformer
+2. ESM3 [paper](https://www.science.org/doi/full/10.1126/science.ads0018), [github](https://github.com/evolutionaryscale/esm)
+3. GenSLMs [paper](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v2), [github](https://github.com/ramanathanlab/genslm)
+4. Nucleotide [paper](https://www.nature.com/articles/s41592-024-02523-z), [github](Transformer https://github.com/instadeepai/nucleotide-transformer)
 
 ## Variant caller
 1. freebayes [paper](https://arxiv.org/abs/1207.3907), [github](https://github.com/freebayes/freebayes)
 2. pilon [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0112963), [github](https://github.com/broadinstitute/pilon)
-3. DeepVariant
-4. Strelka2
-5. Clair3
-6. Longshot
-7. Sniffles2
-8. Lancet
+3. DeepVariant [paper](https://www.nature.com/articles/nbt.4235.epdf?author_access_token=q4ZmzqvvcGBqTuKyKgYrQ9RgN0jAjWel9jnR3ZoTv0NuM3saQzpZk8yexjfPUhdFj4zyaA4Yvq0LWBoCYQ4B9vqPuv8e2HHy4vShDgEs8YxI_hLs9ov6Y1f_4fyS7kGZ), [github](https://github.com/google/deepvariant)
+4. Strelka2 [paper](https://www.nature.com/articles/s41592-018-0051-x), [github](https://github.com/Illumina/strelka)
+5. Clair3 [paper](https://www.nature.com/articles/s43588-022-00387-x.epdf?sharing_token=kNdf0czJGhElEb0EB6oagdRgN0jAjWel9jnR3ZoTv0PiJdK5GreqltZHoXbqG5RzgmGodWvUVeLCJN4bGjchqsDftg2GnKA_d8pBr_SKRpJ13BBz1pMuALldqSi4zNg48pyWtmSs4ORgZmNJ1VeOjrVcoTG0y_eyXoRHpc8498U%3D), [github](https://github.com/HKU-BAL/Clair3)
+6. Longshot [paper](https://www.nature.com/articles/s41467-019-12493-y), [github](https://github.com/pjedge/longshot)
+7. Sniffles2 [paper1](https://www.nature.com/articles/s41592-018-0001-7), [paper2](https://www.nature.com/articles/s41587-023-02024-y), [github](https://github.com/fritzsedlazeck/Sniffles)
+8. Lancet [paper](https://www.biorxiv.org/content/10.1101/2020.07.04.158063v1), [github]( https://github.com/nygenome/lancet)
 
 ## Other topics
 1. Conterminator [paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02023-1), [github](https://github.com/martin-steinegger/conterminator)
