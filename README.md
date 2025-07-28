@@ -97,7 +97,7 @@ Last Modified: 2025-07-25
 1. ProtTrans [paper](https://ieeexplore.ieee.org/document/9477085), [github](https://github.com/agemagician/ProtTrans)
 2. ESM3 [paper](https://www.science.org/doi/full/10.1126/science.ads0018), [github](https://github.com/evolutionaryscale/esm)
 3. GenSLMs [paper](https://www.biorxiv.org/content/10.1101/2022.10.10.511571v2), [github](https://github.com/ramanathanlab/genslm)
-4. Nucleotide [paper](https://www.nature.com/articles/s41592-024-02523-z), [github](Transformer https://github.com/instadeepai/nucleotide-transformer)
+4. Nucleotide Transformer [paper](https://www.nature.com/articles/s41592-024-02523-z), [github](https://github.com/instadeepai/nucleotide-transformer)
 
 ## Variant caller
 1. freebayes [paper](https://arxiv.org/abs/1207.3907), [github](https://github.com/freebayes/freebayes)
